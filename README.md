@@ -1,2 +1,2 @@
-# Portfolio
-MY Talib PORTFOLIO
+# Portfolio 
+Talib PORTFOLIO
